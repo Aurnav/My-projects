@@ -23,4 +23,4 @@ A Python game I made to test your reflexes.
 - Linux and Git (Exploring)
 
 ## 📫 Contact Me
-- Email: (mailto:ak23enter@gmail.com)
+- Email: (ak23enter@gmail.com)

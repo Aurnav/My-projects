@@ -1,26 +1,39 @@
-# Hi, I am Aurnav 👋
+# 👋 Hi, I’m Aurnav  
+🎓 Student | 💻 Learning to Code | 🎮 Future Game Dev
 
-I am a student starting to learn coding and am interested in game development. I enjoy building projects and exploring new technologies.
+I'm diving into the world of programming and game development. I love building small but meaningful projects and experimenting with new tech — one step at a time.
+
+---
 
 ## 🚀 Projects
 
-### 🌌 Nebulynth (Failed)
-An app based on the "Fog of World" system on Android.
+### 🌌 Nebulynth *(Discontinued)*  
+An experimental Android app based on the “Fog of World” concept.
 
-> Tech: Kotlin (used the help of AI), Google Maps API  
+**Tech Used:** Kotlin, Google Maps API, (AI-assisted)
 
-### Animal mood changer game
-A python game I made 
+### 🐾 Animal Mood Changer Game  
+A fun little game that changes animals based on mood.
 
+**Tech Used:** Python
 
-### 🎮 Reaction Time Game
-A Python game I made to test your reflexes.
+### ⚡ Reaction Time Game  
+Test your reflexes with this simple Python game.
 
-> Tech: Python  
+**Tech Used:** Python
+
+---
 
 ## 🛠️ Skills
-- Python, C++ (Learning)
-- Linux and Git (Exploring)
 
-## 📫 Contact Me
-- Email: (ak23enter@gmail.com)
+- 🐍 Python  
+- 💻 C++ (Learning)  
+- 🐧 Linux & Git (Exploring)
+
+---
+
+## 📫 Contact
+
+**Email:** ak23enter@gmail.com  
+Feel free to reach out for project collabs, help, or just to say hi!
+
